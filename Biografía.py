@@ -1,0 +1,10 @@
+nombre = input ("Ingresa tu nombre: ")
+fecha = input ("Ingresa la fecha de nacimiento: ")
+lugar = input("Ingresa el lugar de nacimiento: ")
+logros = input("Ingresa tus logros: ")
+
+print ("Biografia: ")
+print ("Nombre: " + nombre)
+print ("Fecha de nacimiento: " + fecha)
+print ("Lugar de nacimiento: " + lugar)
+print ("Logros Personales: " + logros )
